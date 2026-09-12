@@ -1,0 +1,51 @@
+TariqHMalik/
+│
+├── README.md
+├── publications/
+│   ├── 2023_KPop_NAT/
+│   ├── 2024_DiDi_Narratives/
+│   ├── 2024_SME_Commercialisation/
+│   ├── 2025_Sports_Narratives/
+│   ├── 2025_Semiconductor_Construal/
+│   ├── 2025_AI_Tech_Narratives/
+│   ├── 2025_BRI_Sentiment_Analysis/
+│   ├── 2026_China_Resilience_Innovation/
+│
+├── nat-matrix/
+│   ├── conceptual-diagram.png
+│   ├── nat-framework.md
+│   ├── narrative-taxonomy.md
+│
+├── metadata/
+│   ├── publications.json
+│   ├── narrative-keywords.json
+│   ├── schema-org-markup.json
+│
+└── datasets/
+    ├── sentiment-analysis/
+    ├── narrative-texture/
+narrative analysis
+
+narrative alignment
+
+narrative texture
+
+narrative tendency
+
+narrative taxonomy
+
+NAT Matrix
+
+media sentiment
+
+geopolitical narratives
+
+institutional narratives
+
+economic transformation
+
+innovation pathways
+
+BRI narratives
+
+China world economy
